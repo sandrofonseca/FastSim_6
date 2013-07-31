@@ -1,0 +1,10 @@
+/BremsstrahlungSimulator.h/1.2/Fri May 18 09:12:43 2007//TCMSSW_6_1_0_pre8
+/EnergyLossSimulator.h/1.3/Fri Jun  6 18:04:01 2008//TCMSSW_6_1_0_pre8
+/MaterialEffects.h/1.16/Tue Mar  1 16:52:12 2011//TCMSSW_6_1_0_pre8
+/MaterialEffectsSimulator.h/1.7/Wed May 21 14:44:41 2008//TCMSSW_6_1_0_pre8
+/MultipleScatteringSimulator.h/1.3/Wed May 21 14:44:41 2008//TCMSSW_6_1_0_pre8
+/MuonBremsstrahlungSimulator.h/1.1/Tue Mar  1 16:52:12 2011//TCMSSW_6_1_0_pre8
+/NuclearInteractionSimulator.h/1.7/Tue Apr 15 18:46:05 2008//TCMSSW_6_1_0_pre8
+/PairProductionSimulator.h/1.1/Mon Mar 19 18:29:17 2007//TCMSSW_6_1_0_pre8
+/PetrukhinModel.h/1.1/Tue Mar  1 16:52:12 2011//TCMSSW_6_1_0_pre8
+D
